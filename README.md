@@ -52,28 +52,27 @@ https://docs.google.com/presentation/d/1qzms68IuYq3_lJLCZTpTGEhKglhUr0dk2mg456eX
 * Google Calendars
  
 ### Tasks
-* Structure HTML layout
-* Choose bootstrap theme & styling guidelines
+* Structure HTML layout \[Julie\]
+* Choose bootstrap theme & styling guidelines \[Julie\]
     * Page 1:  
     * Data Table
-    * Data Entry form
+    * Data Entry form \[Peng\]
         * Ability to edit customer 
-            * Pulls open the data entry form with fields populated with current customer info - user can 
-            * then edit info 
-            * Option to delete customer - Prompt: Are you sure?
-            * Save & user info updated or removed
+            - [ ] Pulls open the data entry form with fields populated with current customer info - user can then edit info 
+            - [ ] Option to delete customer - Prompt: Are you sure?
+            - [ ] Save & user info updated or removed
         * Store data in Firebase
     * Page 2:
-        * Google Map
-            * Automatically zoom to chosen city
-            * Ability to switch between map types/styles
+        * Google Map \[Khuri\]
+            - [ ] Automatically zoom to chosen city
+            - [ ] Ability to switch between map types/styles
     * Page 3:
-        * Calendar
-            * Uses customer variables to schedule service (start date, frequency)
-            * Bonus: Ability to edit calendar
-    * Weather
+        * Calendar \[Steve\]
+            - [ ] Uses customer variables to schedule service (start date, frequency)
+            - [ ] Bonus: Ability to edit calendar
+    * Weather \[Julie\]
         * Display 5 day forecast of the user’s city
     * Statistics
         * Weekly & Monthly stats
-            * Number of lawns mowed
-            * Estimated revenue
+            - [ ] Number of lawns mowed
+            - [ ] Estimated revenue
